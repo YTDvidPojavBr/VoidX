@@ -54,5 +54,4 @@ O VoidX é um app feito pra ajudar você a deixar seu Android mais rápido e lev
 <p>
   <img src="https://img.shields.io/github/downloads/YTDvidPojavBr/VoidX/total?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/YTDvidPojavBr/VoidX?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forksYTDvidPojavBr/VoidX?style=for-the-badge"/>
 </p>
